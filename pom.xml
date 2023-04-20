@@ -3,14 +3,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<parent>
-		<groupId>com.bk.soj</groupId>
-		<artifactId>sip-of-java-parent</artifactId>
-		<version>1.0.0</version>
-	</parent>
-
-	<artifactId>077-soj-javadoc-preview-page</artifactId>
-	<name>077-soj-javadoc-preview-page</name>
+	<artifactId>javadoc-feature-test</artifactId>
+	<groupId>com.oracle.sip</groupId>
+	<version>0.0.1</version>
+	<name>javadoc-feature-test</name>
 	<packaging>jar</packaging>
 
 	<description>Let's review the new Javadoc preview page and other changes added  in JDK 20!</description>
