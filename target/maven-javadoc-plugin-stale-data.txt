@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'077-soj-javadoc-preview-page 1.0.0 API'
+-use
+-version
+-windowtitle
+'077-soj-javadoc-preview-page 1.0.0 API'
+com.oracle.sip
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/src/main/java = 1681224985637
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs/tag-search-index.js = 1682004701529
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs/overview-tree.html = 1682004701515
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs/module-search-index.js = 1682004701527
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs/index.html = 1682004701539
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs/package-search-index.js = 1682004701528
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs/index-all.html = 1682004701535
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs/allpackages-index.html = 1682004701526
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs/member-search-index.js = 1682004701529
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs/copy.svg = 1682004701546
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs/script.js = 1682004701545
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs/stylesheet.css = 1682004701544
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs/search-page.js = 1682004701548
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs/help-doc.html = 1682004701542
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs/element-list = 1682004701487
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs/search.html = 1682004701537
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs/allclasses-index.html = 1682004701524
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs/type-search-index.js = 1682004701528
+/Users/bkorando/code-projects/sip-of-java-private/077-javadoc-preview-page/target/site/apidocs/search.js = 1682004701547
